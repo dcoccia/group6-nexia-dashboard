@@ -1,0 +1,7 @@
+[
+  { "segment": "Ottimale", "ageRange": "25-35", "policies": 78000, "averagePremium": 380, "lapseRate": 15.2, "claimsRatio": 18, "channel": "65% digitale, 35% agente", "wellnessReadiness": "alta" },
+  { "segment": "Buono", "ageRange": "36-45", "policies": 135000, "averagePremium": 520, "lapseRate": 11.8, "claimsRatio": 35, "channel": "40% digitale, 60% agente", "wellnessReadiness": "alta" },
+  { "segment": "Standard", "ageRange": "46-55", "policies": 162000, "averagePremium": 720, "lapseRate": 10.5, "claimsRatio": 55, "channel": "20% digitale, 80% agente", "wellnessReadiness": "media" },
+  { "segment": "Elevato", "ageRange": "56-65", "policies": 98000, "averagePremium": 980, "lapseRate": 9.2, "claimsRatio": 78, "channel": "10% digitale, 90% agente", "wellnessReadiness": "bassa" },
+  { "segment": "Senior", "ageRange": "66+", "policies": 47000, "averagePremium": 1350, "lapseRate": 6.1, "claimsRatio": 120, "channel": "5% digitale, 95% agente", "wellnessReadiness": "bassa" }
+]

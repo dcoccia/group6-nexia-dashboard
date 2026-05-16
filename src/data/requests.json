@@ -1,0 +1,15 @@
+{
+  "id": "QUO-2026-XXXX",
+  "clientId": "CLI-XXXX",
+  "product": ("TCM" | "Vita Intera" | "Unit-Linked" | "Income Protection"),
+  "age": (25-75),
+  "smoker": (true | false, ~20% fumatori),
+  "sumInsured": (50000-500000),
+  "duration": (10, 15, 20, 25, 30 anni — solo per TCM),
+  "proposedPremium": (coerente con età, fumatore, capitale: giovane non fumatore basso, senior fumatore alto),
+  "riskClass": ("standard" | "preferred" | "substandard" | "declined"),
+  "channel": ("digitale" | "agente" | "filiale"),
+  "underwritingStatus": ("automatico" | "semplificato" | "manuale" | "in_attesa"),
+  "underwritingDays": (0 per automatico, 1-2 per semplificato, 5-10 per manuale, null per in_attesa),
+  "timestamp": (date degli ultimi 30 giorni, formato ISO)
+}

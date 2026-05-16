@@ -1,0 +1,24 @@
+{
+  "kpis": {
+    "totalPolicies": { "value": 520000, "previousPeriod": 510000, "label": "Polizze attive" },
+    "totalPremiums": { "value": 480000000, "previousPeriod": 470000000, "label": "Raccolta premi annua" },
+    "averagePremiumTCM": { "value": 620, "previousPeriod": 610, "label": "Premio medio TCM", "unit": "€" },
+    "lapseRate": { "value": 12.0, "previousPeriod": 12.5, "label": "Lapse rate", "unit": "%" },
+    "nps": { "value": 26, "previousPeriod": 24, "label": "NPS" },
+    "wellnessEngagement": { "value": 0, "previousPeriod": 0, "label": "Engagement wellness", "unit": "%" }
+  },
+  "monthlyHistory": [
+    { "month": "2025-06", "activePolicies": 505000, "newBusiness": 4200, "lapses": 5100, "premiumVolume": 38500000, "claimsRatio": 62, "avgUnderwritingDays": 6.8 },
+    { "month": "2025-07", "activePolicies": 504100, "newBusiness": 3800, "lapses": 4700, "premiumVolume": 38200000, "claimsRatio": 58, "avgUnderwritingDays": 6.5 },
+    { "month": "2025-08", "activePolicies": 503200, "newBusiness": 3200, "lapses": 4100, "premiumVolume": 37800000, "claimsRatio": 61, "avgUnderwritingDays": 6.7 },
+    { "month": "2025-09", "activePolicies": 504300, "newBusiness": 4500, "lapses": 3400, "premiumVolume": 38800000, "claimsRatio": 59, "avgUnderwritingDays": 6.4 },
+    { "month": "2025-10", "activePolicies": 506000, "newBusiness": 4800, "lapses": 3100, "premiumVolume": 39200000, "claimsRatio": 60, "avgUnderwritingDays": 6.2 },
+    { "month": "2025-11", "activePolicies": 507500, "newBusiness": 4600, "lapses": 3100, "premiumVolume": 39500000, "claimsRatio": 63, "avgUnderwritingDays": 6.0 },
+    { "month": "2025-12", "activePolicies": 508000, "newBusiness": 3500, "lapses": 3000, "premiumVolume": 39000000, "claimsRatio": 65, "avgUnderwritingDays": 5.8 },
+    { "month": "2026-01", "activePolicies": 510000, "newBusiness": 5200, "lapses": 3200, "premiumVolume": 40200000, "claimsRatio": 58, "avgUnderwritingDays": 5.9 },
+    { "month": "2026-02", "activePolicies": 512500, "newBusiness": 5500, "lapses": 3000, "premiumVolume": 40800000, "claimsRatio": 57, "avgUnderwritingDays": 5.7 },
+    { "month": "2026-03", "activePolicies": 515000, "newBusiness": 5600, "lapses": 3100, "premiumVolume": 41200000, "claimsRatio": 59, "avgUnderwritingDays": 5.5 },
+    { "month": "2026-04", "activePolicies": 517500, "newBusiness": 5800, "lapses": 3300, "premiumVolume": 41500000, "claimsRatio": 60, "avgUnderwritingDays": 5.3 },
+    { "month": "2026-05", "activePolicies": 520000, "newBusiness": 6000, "lapses": 3500, "premiumVolume": 42000000, "claimsRatio": 58, "avgUnderwritingDays": 5.2 }
+  ]
+}
